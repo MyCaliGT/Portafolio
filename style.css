@@ -172,9 +172,9 @@ span{
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 4rem;
-  margin-left: 15rem;
-  margin-right: 15rem;
+  gap: 5rem;
+  margin-left: 12rem;
+  margin-right: 12rem;
 }
 .about-img #perfil1{
   width: 22vw;
