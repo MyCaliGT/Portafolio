@@ -572,7 +572,7 @@ span{
 }
 @media (max-width: 600px) {
   .home {
-    padding: 20rem 3% 23rem;
+    padding: 20rem 3% 5rem;
     justify-content: center;
     text-align: center;
     background: var(--dark-color);
@@ -584,9 +584,11 @@ span{
     font-size: 5rem;
   }
   .about {
-    padding-top: 0;
+    padding-top: 5rem;
     flex-direction: column-reverse;
     text-align: center;
+    margin-left: 5rem;
+    margin-right: 5rem;
   }
   .about-content h2 {
     text-align: center;
