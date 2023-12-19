@@ -46,7 +46,7 @@ html, body {
   top: 0;
   left: 0;
   width: 100%;
-  padding: 2rem 7%;
+  padding: 1rem 7%;
   background: transparent;
   display: flex;
   align-items: center;
@@ -61,7 +61,7 @@ html, body {
   margin-right: auto; /*para poner el navbar a la derecha*/
 }
 .img-logo{
-  width: 12rem;
+  width: 5rem;
 }
 .navbar a{
   position: relative;
@@ -645,7 +645,8 @@ span{
     right: 6rem;
   }
   .home {
-    padding: 10 3% 30rem;
+    padding: 20% 5rem;
+    height: 95vh;
   }
   .services {
     padding: 3rem;
