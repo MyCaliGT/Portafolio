@@ -7,7 +7,7 @@
   "orientation": "portrait",
   "scope": "./",
   "start_url": "index.html",
-  "lang": "es-CO",
+  "lang": "es",
   "icons": [
     {
       "src": "./pwa/images/icons/icon-72x72.png",

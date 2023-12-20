@@ -7,6 +7,8 @@ const CACHE_NAME = 'Portfolio',
     './style.css',
     './script.js',
 
+    './js/jquery-3.6.0.js',
+
     './regist_serviceWorker.js',
     './pwa/images/icons/icon-512x512.png',
     './pwa/images/icons/icon-72x72.png'
