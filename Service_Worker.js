@@ -11,7 +11,18 @@ const CACHE_NAME = 'Portfolio',
 
     './regist_serviceWorker.js',
     './pwa/images/icons/icon-512x512.png',
-    './pwa/images/icons/icon-72x72.png'
+    './pwa/images/icons/icon-72x72.png',
+    './img/fondo7.jpg',
+    './img/perfil1.png',
+    './img/perfil2.png',
+    './img/portfolio1.jpg',
+    './img/portfolio22.jpg',
+    './img/portfolio33.jpg',
+    './img/portfolio3.jpg',
+    './img/portfolio5.jpg',
+    './img/portfolio6.jpg',
+    './img/icon2.png',
+
   ]
 
 //durante la fase de instalación, generalmente se almacena en caché los activos estáticos
