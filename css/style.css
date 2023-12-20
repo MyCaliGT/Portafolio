@@ -101,7 +101,7 @@ section{
   width: 100%;
   height: 100vh;
   position: relative;
-  background: url(./img/fondo7.jpg);
+  background: url(../img/fondo7.jpg);
   background-size: cover;
   background-position: center;
 }
