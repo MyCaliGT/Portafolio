@@ -4,8 +4,8 @@ const CACHE_NAME = 'Portfolio',
   urlsToCache = [
     './',
     './index.html',
-    './style.css',
-    './script.js',
+    './css/style.css',
+    './js/script.js',
 
     './js/jquery-3.6.0.js',
 

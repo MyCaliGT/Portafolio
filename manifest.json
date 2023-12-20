@@ -2,7 +2,7 @@
   "name": "MyCaliGT",
   "short_name": "Portfolio",
   "theme_color": "#abd1f2",
-  "background_color": "#2196f3",
+  "background_color": "#18191A",
   "display": "standalone",
   "orientation": "portrait",
   "scope": "./",
