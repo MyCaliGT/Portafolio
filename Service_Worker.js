@@ -5,6 +5,7 @@ const CACHE_NAME = 'Portfolio',
     './',
     './index.html',
     './css/style.css',
+    './css/boxicons.min.css',
     './js/script.js',
 
     './js/jquery-3.6.0.js',
