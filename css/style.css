@@ -572,7 +572,7 @@ span{
 }
 @media (max-width: 600px) {
   .home {
-    padding: 10rem 3% 2rem;
+    padding: 10rem 2% 2rem;
     justify-content: center;
     text-align: center;
     background: var(--dark-color);
@@ -645,14 +645,42 @@ span{
     right: 6rem;
   }
   .home {
-    padding: 20% 5rem;
-    height: 95vh;
+    padding: 20% 3rem;
+    height: 100vh;
+  }
+  .home-content h3{
+    font-size: 3.4rem;
+  }
+  .home-content h1{
+    font-size: 5.8rem;
+  }
+  .home-content h2 {
+    font-size: 3rem;
+  }
+  .home-content p{
+    font-size: 1.8rem;
   }
   .services {
     padding: 3rem;
   }
   .contact form .input-box input {
     width: 100%;
+  }
+}
+@media (max-width: 300px){
+  .home-content h3{
+    font-size: 3.2rem;
+    display: block;
+    line-height: 1.5;
+  }
+  .home-content h1{
+    font-size: 5.6rem;
+  }
+  .home-content h2 {
+    font-size: 3rem;
+  }
+  .home-content p{
+    font-size: 1.8rem;
   }
 }
 @media (max-width: 200px){
