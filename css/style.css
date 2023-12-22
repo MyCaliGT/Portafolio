@@ -576,6 +576,7 @@ span{
     justify-content: center;
     text-align: center;
     background: var(--dark-color);
+    height: 100vh;
   }
   .home-content h3 {
     font-size: 2.6rem;
